@@ -7,6 +7,8 @@ O preguiçoso deseja, e coisa nenhuma alcança; mas o desejo do diligente será 
 
 “Resumindo, autodisciplina é fazer o que você precisa fazer, quando precisa ser feito, independente de você querer fazer ou não.”
 
+“Life’s easy when you live it the hard way... and hard if you try to live it the easy way.”
+
 Os empreendedores operam de forma diferente. Eles têm um olho para o essencial. 
 Eles pausam apenas o tempo suficiente para decidir o que importa e, em seguida, permitir que o que importa
 conduzir o seu dia. 
