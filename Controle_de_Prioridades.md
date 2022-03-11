@@ -1,3 +1,8 @@
+Livros em leitura:
+One Thing
+The Millionare fastlane
+A Guide to the Good Life
+
 Propósito de Vida
 Desenvolver todas as soluções de necessidades ou melhorias de produto que meu cérebro idealiza através de um talento que me foi concebido por Deus.
 Estudar Física, Matemática, Química e Engenharia para aumentar as possibilidades de ideias e soluções.
