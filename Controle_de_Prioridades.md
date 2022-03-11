@@ -42,3 +42,5 @@ Instagram pessoal, josealcides, email josealcides.sf
 Senha: @J*****83***8
 Roteador de casa: root - hnZ6TKM6
 [202105201416] - [] - josealcides@jasfelectronics.com.br microsoft: a mesma do notebook Garen com final 82
+
+[202105110719] – [] -   https://br1lib.org/  site de download.
