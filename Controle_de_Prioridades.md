@@ -5,6 +5,8 @@ Pedi, e dar-se-vos-á; buscai, e achareis, batei e abrir-se-vos-á.
 Ora, qual de vós, por mais ansioso que esteja, pode acrescentar um côvado à sua estatura?
 O preguiçoso deseja, e coisa nenhuma alcança; mas o desejo do diligente será satisfeito.
 
+“Resumindo, autodisciplina é fazer o que você precisa fazer, quando precisa ser feito, independente de você querer fazer ou não.”
+
 Os empreendedores operam de forma diferente. Eles têm um olho para o essencial. 
 Eles pausam apenas o tempo suficiente para decidir o que importa e, em seguida, permitir que o que importa
 conduzir o seu dia. 
