@@ -44,3 +44,22 @@ Roteador de casa: root - hnZ6TKM6
 [202105201416] - [] - josealcides@jasfelectronics.com.br microsoft: a mesma do notebook Garen com final 82
 
 [202105110719] – [] -   https://br1lib.org/  site de download.
+
+Pedir para Márcia comprar amostras - 50 peças de cada
+Conector de 6 vias 3.5mm 180º receptáculo
+https://lcsc.com/product-detail/Pluggable-System-Terminal-Block_Cixi-Kefa-Elec-KF2EDGV-3-5-6P_C441325.html
+
+https://lcsc.com/product-detail/Pluggable-System-Terminal-Block_Cixi-Kefa-Elec-KF2EDGV-3-5-5P_C441324.html
+https://lcsc.com/product-detail/Pluggable-System-Terminal-Block_Cixi-Kefa-Elec-KF2EDGV-3-5-4P_C441323.html
+
+KF2EDGA-3.5-4P - Fêmea 90º
+
+
+
+Comprar amostras de conector para a placa duplicador wiegand - tanto o 180°, quando o fêmea para pcb.
+http://www.china-wj.com/En/product_detail/id/585.html - Site da china conectores - FOI FEITO O PEDIDO PARA A FERNANDA ACOMPANHAR.
+
+15EDGVC-3.5-06P - 180° 6 vias 3.5mm - http://www.china-wj.com/En/product_detail/id/593.html - com 6 terminais
+15EDGA-3.5-06P-14-00AH - 6 vias fêmea 90º para PCB.
+http://www.china-wj.com/En/product_detail/id/585.html - Genérico - Pedir de 2 e de 6.
+pcb.https://www.tme.com/Document/d4df6bb0f061af30c576bc5b5b8df3df/15EDGA-3.xx.pdf
