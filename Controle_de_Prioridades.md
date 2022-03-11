@@ -23,3 +23,22 @@ Livros em leitura:
 One Thing
 The Millionare fastlane
 A Guide to the Good Life
+
+FortiClient
+usuario: jose.filho
+senha: #Garen20
+
+bol
+josealcides@bol.com.br
+@J*****83****
+
+código inss: 1303153
+gov.br @J****83**78
+login raspberry: pi
+senha: root
+login mysql: mysql
+senha: password
+Instagram pessoal, josealcides, email josealcides.sf
+Senha: @J*****83***8
+Roteador de casa: root - hnZ6TKM6
+[202105201416] - [] - josealcides@jasfelectronics.com.br microsoft: a mesma do notebook Garen com final 82
